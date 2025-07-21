@@ -5,7 +5,7 @@
 A classic Snake game where the snake learns to play using **Reinforcement Learning** via **Q-Learning**. This project visualizes the training and inference of an AI agent as it learns to collect food and avoid walls or self-collisions.
 
 ---
-
+![Snake RL Demo](snke-rl.gif)
 ##  Features
 
 - Game visualization using **Pygame**
